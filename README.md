@@ -1,7 +1,7 @@
 # Telegram Chatbot
 
 **Architecture Diagram**
-![Architecture Diagram](images/architecture_diagram.png)
+![Architecture Diagram](Images/architecture_diagram.png)
 
 You can also view the diagram [here](https://www.canva.com/design/DAGTNSKnpz4/VcjDVCPbUEzs1b1v5hqxhQ/view?utm_content=DAGTNSKnpz4&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
