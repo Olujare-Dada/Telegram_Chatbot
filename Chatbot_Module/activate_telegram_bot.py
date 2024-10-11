@@ -25,10 +25,10 @@ from answer_query import get_chatbot_response
 
 
 # Paste in browser to set up WEBHOOK:
-# https://api.telegram.org/bot7189642338:AAGCNZfifibk69do59EgMiZWt5_YQh2dJJ0/setWebhook?url=https://6cf9-70-26-93-16.ngrok-free.app/7189642338:AAGCNZfifibk69do59EgMiZWt5_YQh2dJJ0
+# https://api.telegram.org/bot<TELEGRAM_TOKEN>/setWebhook?url=https://6cf9-70-26-93-16.ngrok-free.app/<TELEGRAM_TOKEN>
 
 # Check if WEBHOOK has been setup:
-# https://api.telegram.org/bot7189642338:AAGCNZfifibk69do59EgMiZWt5_YQh2dJJ0/getWebhookInfo
+# https://api.telegram.org/bot<TELEGRAM_TOKEN>/getWebhookInfo
 
 
 # Load environment variables from .env file
